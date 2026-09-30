@@ -3,7 +3,7 @@
 const APP_NAME = 'RESpos';
 const APP_CREATOR = 'Z3r0X';
 // URL oficial / repositorio del proyecto. Marcada para poder cambiarla posteriormente.
-const PROJECT_GITHUB_URL = 'https://github.com/Z3r0X-cu/NEXA-POS';
+const PROJECT_GITHUB_URL = 'https://github.com/Z3r0X-cu/RESpos';
 // Dejar vacío para autodetectar /RESpos, /, etc. Ejemplo manual: '/RESpos'
 const APP_BASE_URL = '';
 const DEFAULT_TIMEZONE = 'America/Havana';
