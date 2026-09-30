@@ -1,0 +1,1 @@
+</main><footer class="footer"><b>RESpos</b> · <?=date('Y')?> · Creado por <b>Z3r0X</b> · <a href="<?=h(PROJECT_GITHUB_URL)?>" target="_blank"><?=h(PROJECT_GITHUB_URL)?></a></footer><script src="<?=url('assets/js/clock.js')?>"></script><script src="<?=url('assets/js/main.js')?>"></script></body></html>
